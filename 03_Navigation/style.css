@@ -1,0 +1,18 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.maindiv{
+    background-color: white;
+    width: 0;
+    transition: 0.5s;
+}
+li{
+    list-style-type:none;
+    display: none;
+    color: white;
+    margin: 20px;
+    font-weight: 500;
+    
+}
+
