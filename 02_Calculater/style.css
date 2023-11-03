@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(224, 224, 233); }
+
+button{
+    color: white;
+    background-color: rgb(23, 23, 68);
+}
+.col-md-6{
+    margin-top: 150px !important;
+    background-image: linear-gradient(rgb(150, 150, 158),white);
+}
+input[type=button]{
+    width: 100%;
+    background-color: rgb(46, 46, 90);
+    color: white;
+    font-weight: bolder;
+    border: 3px solids black;
+}
+input[type=text]{
+    width: 100%;
+ 
+}
