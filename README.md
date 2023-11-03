@@ -1,2 +1,2 @@
 # ReactJSDipika
-Learning React JS with Chay or Code
+My Javascript Projects
